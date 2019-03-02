@@ -6,10 +6,6 @@ publish = "public"
 command = "hugo"
 
 [context.production.environment]
-<<<<<<< HEAD
-HUGO_VERSION = "0.54.0/extended darwin/amd64"
-=======
 HUGO_VERSION = "0.54.0"
->>>>>>> 597a6d00f9b615b7d3618ebcc252715e44a93778
 HUGO_ENV = "production"
 HUGO_ENABLEGITINFO = "true"
