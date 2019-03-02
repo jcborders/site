@@ -17,7 +17,7 @@ authors = ["JC Borders, D Fink, JE Levitt, J McKeehan, E McNally, A Rubio, R Sch
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Dysphagia*."
+publication = "*Dysphagia*"
 publication_short = ""
 
 # Abstract.
@@ -49,7 +49,7 @@ url_pdf = "https://www.researchgate.net/profile/James_Borders/publication/330714
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-links = [{name = "Custom Link", url = "http://example.org"}]
+links = [{name = "Online Article", url = "https://link.springer.com/article/10.1007/s00455-019-09980-1"}]
 
 # Does this page contain LaTeX math? (true/false)
 math = false
