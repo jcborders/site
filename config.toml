@@ -1,8 +1,9 @@
-baseurl = "/"
+baseurl = "www.objective-bassi-9d4294.netlify.com/"
 title = "James C. Borders"
 copyright = "&copy; 2019 James C. Borders"
 languageCode = "en-us"
 theme = "hugo-academic"
+themesDir = "../.."
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
