@@ -1,0 +1,11 @@
+# Academic
+version = "4.1.0"
+
+[build]
+publish = "public"
+command = "hugo"
+
+[context.production.environment]
+HUGO_VERSION = "0.54"
+HUGO_ENV = "production"
+HUGO_ENABLEGITINFO = "true"
