@@ -1,9 +1,9 @@
 +++
 title = "Relationship Between Laryngeal Sensation, Length of Intubation, and Aspiration in Patients with Acute Respiratory Failure"
-date = 2019-01-01T00:00:00
+date = 2019-02-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["JC Borders, D Fink, JE Levitt, J McKeehan, E McNally, A Rubio, R Scheel, JM Siner, SG Taborda, R Vojnik, H Warner, SD White, SE Langmore, M Moss, GP Krisciunas"]
+authors = ["JC Borders", "D Fink", "JE Levitt", "J McKeehan", "E McNally", "A Rubio", "R Scheel", "JM Siner", "SG Taborda", "R Vojnik", "H Warner", "SD White", "SE Langmore", "M Moss", "GP Krisciunas"]
 
 # Publication type.
 # Legend:
@@ -24,7 +24,7 @@ publication_short = ""
 abstract = "*Background:* Dysphagia is common in hospitalized patients post-extubation and associated with poor outcomes. Laryngeal sensation is critical for airway protection and safe swallowing. However, current understanding of the relationship between laryngeal sensation and aspiration in post-extubation populations is limited.  <br><br> *Methods:* Acute respiratory failure patients requiring intensive care unit admission and mechanical ventilation received a Flexible Endoscopic Evaluation of Swallowing (FEES) within 72 hours of extubation. Univariate and multivariable analyses were performed to examine the relationship between laryngeal sensation, length of intubation, and aspiration. Secondary outcomes included pharyngolaryngeal secretions, pneumonia, and diet recommendations.  <br><br> *Results:* One-hundred and three patients met inclusion criteria. Fifty-one patients demonstrated an absent laryngeal adductor reflex (LAR). Altered laryngeal sensation was correlated with the presence of secretions (p = 0.004). There was a significant interaction between the LAR, aspiration, and duration of mechanical ventilation. Altered laryngeal sensation was significantly associated with aspiration on FEES only in patients with a shorter length of intubation (p = 0.008). Patients with altered laryngeal sensation were prescribed significantly more restricted liquid (p = 0.03) and solid (p = 0.001) diets. No relationship was found between laryngeal sensation and pneumonia.   <br><br> *Conclusions:* There is a high prevalence of laryngeal sensory deficits in mechanically ventilated patients post-extubation. Altered laryngeal sensation was associated with secretions, aspiration, and modified diet recommendations especially in those patients with a shorter length of mechanical ventilation. These results demonstrate that laryngeal sensory abnormalities impact the development of post-extubation dysphagia."
 
 # Summary. An optional shortened abstract.
-summary = "Laryngeal sensory deficits are common after extubation, and are associated with secretions, aspiration, and modified diet recommendations, especially in those patients with a shorter length of intubation. This finding establishes the need for future interventions to address changes in laryngeal sensation post-extubation."
+summary = "Laryngeal sensory deficits are common after extubation and associated with aspiration, especially in those with short intubations."
 
 # Digital Object Identifier (DOI)
 doi = "10.1007/s00455-019-09980-1"

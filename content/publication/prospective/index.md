@@ -1,9 +1,9 @@
 +++
-title = "A Person Re-Identification System For Mobile Devices"
-date = 2015-09-01T00:00:00
+title = "Prospective Investigation of Incidence and Co-occurrence of Dysphagia, Dysarthria, and Aphasia Following Ischemic Stroke"
+date = 2019-01-01T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["GA Cushen"]
+authors = ["KL Stipancic", "JC Borders", "D Brates", "SL Thibeault"]
 
 # Publication type.
 # Legend:
@@ -17,24 +17,24 @@ authors = ["GA Cushen"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *Signal Image Technology & Internet Systems (SITIS)*, IEEE."
-publication_short = "In *SITIS*"
+publication = "*American Journal of Speech-Language Pathology (AJSLP)*."
+publication_short = ""
 
 # Abstract.
-abstract = "Person re-identification is a critical security task for recognizing a person across spatially disjoint sensors. Previous work can be computationally intensive and is mainly based on low-level cues extracted from RGB data and implemented on a PC for a fixed sensor network (such as traditional CCTV). We present a practical and efficient framework for mobile devices (such as smart phones and robots) where high-level semantic soft biometrics are extracted from RGB and depth data. By combining these cues, our approach attempts to provide robustness to noise, illumination, and minor variations in clothing. This mobile approach may be particularly useful for the identification of persons in areas ill-served by fixed sensors or for tasks where the sensor position and direction need to dynamically adapt to a target. Results on the BIWI dataset are preliminary but encouraging. Further evaluation and demonstration of the system will be available on our website."
+abstract = "<br> *Purpose:* The high incidence of swallowing and communication disorders following stroke is well documented. However, many of these studies have used retrospective chart reviews to make estimates of incidence and co-occurrence. The current study prospectively examined the incidence and co-occurrence of dysphagia, dysarthria, and aphasia following a 1st occurrence of ischemic stroke at an academic medical center hospital. <br><br> *Method:* One hundred patients who experienced their 1st ischemic stroke were recruited for participation in this study. All participants received a clinical swallowing evaluation to assess for dysphagia, administration of the Frenchay Dysarthria Assessment–Second Edition ( Enderby & Palmer, 2008) and Western Aphasia Battery–Revised ( Kertesz, 2006) to screen for the presence of dysarthria and aphasia, respectively. <br><br> *Results:* Incidence rates of dysphagia, dysarthria, and aphasia were 32%, 26%, and 16%, respectively. Forty-seven percent of participants had at least 1 of these disorders, 28% had 2 of these disorders, and 4% had all 3. Although the incidence rates in this study were smaller in magnitude than incidence rates in previous research, the pattern of results is broadly similar (i.e., dysphagia had the highest incidence rate, followed by dysarthria and, lastly, aphasia). <br><br> *Conclusions:* This prospective study yielded slightly lower incidence rates than have been previously obtained from retrospective chart reviews. The high incidence and co-occurrence of devastating swallowing and communication disorders post–ischemic stroke provides clear motivation for speech-language pathology involvement in the early phase of stroke rehabilitation."
 
 # Summary. An optional shortened abstract.
-summary = ""
+summary = "This prospective replication study demonstrated a high incidence and co-occurrence of dysphagia, dysarthria, and aphasia after stroke."
 
 # Digital Object Identifier (DOI)
-doi = ""
+doi = "10.1044/2018_AJSLP-18-0136"
 
 # Is this a featured publication? (true/false)
 featured = false
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = []
+tags = ["Aphasia", "Dysphagia", "Dysarthria", "Prospective Replication"]
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -50,10 +50,10 @@ projects = []
 #   E.g. `slides = "example-slides"` references 
 #   `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides = "example-slides"
+slides = "]"
 
 # Links (optional).
-url_pdf = "http://arxiv.org/pdf/1512.04133v1"
+url_pdf = "https://www.researchgate.net/profile/James_Borders/publication/330205804_Prospective_Investigation_of_Incidence_and_Co-occurrence_of_Dysphagia_Dysarthria_and_Aphasia_Following_Ischemic_Stroke/links/5c570edd92851c22a3a66186/Prospective-Investigation-of-Incidence-and-Co-occurrence-of-Dysphagia-Dysarthria-and-Aphasia-Following-Ischemic-Stroke.pdf"
 url_preprint = ""
 url_code = ""
 url_dataset = ""
@@ -65,20 +65,18 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# links = [{name = "Custom Link", url = "http://example.org"}]
+links = [{name = "Online Article", url = "https://jslhr.pubs.asha.org/doi/abs/10.1044/2018_AJSLP-18-0136"}]
 
 # Does this page contain LaTeX math? (true/false)
-math = true
+math = false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 [image]
   # Caption (optional)
-  caption = "Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)"
+  caption = ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = ""
+  focal_point = "Smart"
 +++
-
-More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
